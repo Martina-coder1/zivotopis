@@ -16,12 +16,14 @@ body {background-color: rgb(244, 222, 206);
   a {color: blue;}  
  .pata {text-align: center;
         font-weight: bolder;
-        color: rgb(108, 52, 12);}
+        color: rgb(250, 234, 222);
+    background-color: rgb(69, 42, 8);}
  img {width: 400px;;
     height: 300px ;
     border-radius:50%;} 
 .vzdelani {text-align: center;}
-.praxe {text-align: center;}
+.praxe {text-align: center;
+margin-bottom: 50px;}
 .jazyky{text-align: center;}
 .dalsi {text-align: center;}
 .chci {text-align: center;}
