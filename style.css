@@ -1,0 +1,26 @@
+body {background-color: rgb(244, 222, 206);
+     font-size: 20px;
+     line-height: 2;
+    font-family: Arial, Helvetica, serif;}
+      
+h1 {color: rgb(108, 52, 12);
+    font-size: 50px;
+    text-align: center;}
+
+.kontakty {line-height:2;}
+
+ h2 {font-family: Arial, Helvetica, serif;
+    color:rgb(108, 52, 12);}   
+    
+  a {color: blue;}  
+ .pata {text-align: center;
+        font-weight: bolder;
+        color: rgb(108, 52, 12);}
+ img {width: 400px;;
+height: 300px ;
+border-radius: 50%;}  
+
+
+
+
+
